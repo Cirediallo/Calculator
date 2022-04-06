@@ -1,0 +1,29 @@
+int x;
+int y;
+int i;
+int za;
+int s;
+int b;
+int u;
+int endthen;
+int endelse;
+int z;
+x=10;
+y=20;
+println(x);
+println(y);
+
+z=x+y;
+println( z);
+za=z;
+println(za);
+i=0;
+s=0;
+if( s == 0 )
+{
+	println(s);
+}
+else
+{
+	println(x);
+}
